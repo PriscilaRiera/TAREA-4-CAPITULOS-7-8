@@ -47,22 +47,45 @@
 
 ## 3. Explicación y resolución de ejercicios
 ### Capítulo VII
-2. Visualice y trace los siguientes circuitos en serie-paralelo:
-(a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
-(b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
-4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
-6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
-8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Æ. Uno de los resistores es de 1.0 kÆ. ¿Cuál es el otro resistor?
+2.Visualice y trace los siguientes circuitos en serie-paralelo:
 
-![image](https://user-images.githubusercontent.com/105740772/176722191-fe3f83a2-eb0b-439f-9b2a-dca9bb28ed3c.png)
 
-10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
-12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
-14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
-16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
-18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
-20. Determine el voltaje, VAB, en la figura 7-69.
-22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
+(a)Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie.
+
+(b)Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores.
+
+4.En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
+
+![image](https://user-images.githubusercontent.com/105740772/176734486-f9e1c04f-2083-4519-a95c-dbf56968d4a3.png)
+
+6.Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
+
+8.Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Æ. Uno de los resistores es de 1.0 kÆ. ¿Cuál es el otro resistor?
+
+![image](https://user-images.githubusercontent.com/105740772/176728766-4825f43c-38d0-4eb4-bdf5-4fa22df321af.png)
+
+10.Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
+
+12.Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
+
+![image](https://user-images.githubusercontent.com/105740772/176734713-c9d8fa6d-f7d0-4b76-8ed2-f2b73705afda.png)
+
+14.Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
+
+![image](https://user-images.githubusercontent.com/105740772/176734863-fb8f1b97-8543-4dce-8136-a92b73c390e8.png)
+
+16.Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
+
+![image](https://user-images.githubusercontent.com/105740772/176734997-5a43b441-35d2-4120-877c-93ade7f9a9fd.png)
+
+18.Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
+
+![image](https://user-images.githubusercontent.com/105740772/176735139-ded0ca35-fd1d-411d-9240-b0dfab928e05.png)
+
+20.Determine el voltaje, VAB, en la figura 7-69.
+
+22.En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
+
 24. Determine el valor de cada resistor mostrado en la figura 7-73.
 
 ![image](https://user-images.githubusercontent.com/105740772/176723403-54ee5612-9c00-46c7-8d7d-60f13b7c7992.png)
@@ -145,18 +168,36 @@
 
 10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
 12. Repita el problema 11 si R2 es de 10 kÆ.
+
+![image](https://user-images.githubusercontent.com/105740772/176736551-ddcf1a13-b156-421f-9329-71c7380c1f63.png)
+
 14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
 16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/105740772/176736722-0c0fb050-2f00-4354-a665-e27f40459ebf.png)
+
 18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
 20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80.
 22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/105740772/176736313-0118744c-a354-4ef7-b8b3-72da8ff97753.png)
+
 24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/105740772/176736206-a9373917-37ea-41c7-8451-e096573f759c.png)
+
 26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 � 8 kÆ.
 28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![image](https://user-images.githubusercontent.com/105740772/176736055-d38b0751-c673-4f8e-8565-7142fc64f873.png)
+
 30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
 32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
 34. En la figura 8-88, convierta cada red delta en una red Y.
 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+
+![image](https://user-images.githubusercontent.com/105740772/176735500-c80eec14-29b9-48a8-936c-5ff597a9d9ca.png)
+
 ## 4. Video
 
 
